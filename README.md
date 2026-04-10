@@ -53,4 +53,4 @@ npm run dev
 ## 🌐 Live Demo
 
 Check out the live version of my portfolio here:
-👉 https://vercel.com/ankit-kumars-projects-46e6ec5b/my-portfolio
+👉 https://my-portfolio-ten-amber-91.vercel.app/
